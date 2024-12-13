@@ -50,9 +50,8 @@ Follow these steps to run the project locally:
 3. **Set up environment variables**:  
    Create a `.env` file in the root directory and add:  
    ```plaintext
-   DATABASE_URL=your_mongodb_connection_string
-   NEXTAUTH_SECRET=your_nextauth_secret
-   RAZORPAY_KEY=your_razorpay_api_key
+   NEXT_PUBLIC_KEY_ID=your_razorpay_api_key
+   KEY_SECRET=your_razorpay_api_secret
    ```
 
 4. **Run the project**:  
@@ -107,7 +106,7 @@ Follow these steps to run the project locally:
 ⭐ **If you like this project, give it a star!** ⭐  
 
 ### **Next Steps:**
-1. Replace **`YOUR-USERNAME`** with your actual GitHub username.
+1. Replace **`06-abhishek`** with your actual GitHub username.
 2. Fill in the placeholders for environment variables, Live Demo URL, and your contact information.
 3. Save the file as `README.md` in the root of your project folder.
 
