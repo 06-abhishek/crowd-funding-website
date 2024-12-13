@@ -109,5 +109,3 @@ Follow these steps to run the project locally:
 1. Replace **`06-abhishek`** with your actual GitHub username.
 2. Fill in the placeholders for environment variables, Live Demo URL, and your contact information.
 3. Save the file as `README.md` in the root of your project folder.
-
-This will set up a clean, professional README for your **Fundora** project! Let me know if you need further assistance. 😊
