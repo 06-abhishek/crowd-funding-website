@@ -42,8 +42,8 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/fundora.git
-   cd fundora
+   git clone https://github.com/06-abhishek/crowd-funding-website.git
+   cd crowd-funding-website
    ```
 
 2. **Install dependencies**:  
@@ -103,13 +103,12 @@ Follow these steps to run the project locally:
 
 ## 📞 Contact  
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- **Email**: abhishekp.7841@gmail.com  
+- **LinkedIn**: [Abhishek Patil](https://www.linkedin.com/in/abhishek-patil-27759630b)  
 
 ---
 
 ⭐ **If you like this project, give it a star!** ⭐  
-```
 
 ### **Next Steps:**
 1. Replace **`YOUR-USERNAME`** with your actual GitHub username.
