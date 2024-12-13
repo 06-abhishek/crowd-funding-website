@@ -21,8 +21,7 @@ A **modern crowdfunding platform** that empowers creators to showcase their work
 - **Backend**: Next.js API Routes  
 - **Authentication**: NextAuth.js  
 - **Database**: MongoDB  
-- **Payment Integration**: Razorpay API  
-- **Deployment**: Vercel  
+- **Payment Integration**: Razorpay API
 
 ---
 
@@ -30,9 +29,6 @@ A **modern crowdfunding platform** that empowers creators to showcase their work
 
 ### Landing Page  
 ![Landing Page](public/demo-page.jpg)  
-
-### Creator Dashboard  
-![Dashboard](public/coin.gif)  
 
 ---
 
