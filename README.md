@@ -1,6 +1,3 @@
-
-
-```
 # Fundora 🚀  
 
 A **modern crowdfunding platform** that empowers creators to showcase their work and receive support seamlessly. Built with cutting-edge technologies for exceptional performance and a great user experience.
