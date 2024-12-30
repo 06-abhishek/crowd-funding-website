@@ -26,13 +26,14 @@ const Navbar = () => {
           <li>
             <Link href="/">Collaborate</Link>
           </li>
-          {session && <li>
-            <Link href={`${session.user.name}`}>Your Page</Link>
-          </li>}
+          {session && (
+            <li>
+              <Link href={`${session.user.name}`}>Your Page</Link>
+            </li>
+          )}
           <li>
             {session && (
-              <Link
-                href="/profile">
+              <Link href="/profile">
                 {session.user.image && (
                   <img
                     src={session.user.image}
@@ -52,6 +53,8 @@ const Navbar = () => {
               </Link>
             )}
           </li>
+
+         
         </ul>
       </nav>
     </>
